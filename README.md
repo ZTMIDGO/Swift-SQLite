@@ -1,7 +1,6 @@
 # Swift-SQLite
 
-支持ios 16或更高的版本，xcode 15
-Support iOS 16 or later, XCODE 15
+支持ios 16或更高的版本，xcode 15 (Support iOS 16 or later, XCODE 15)
 
 ### 创建表 (Create a table)
 ``` swift
